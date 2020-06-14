@@ -30,3 +30,9 @@
   background-color: #f44;
 }
 ```
+
+```
+<!-- git  删文件 -->
+git rm -r --cached miniprogram_npm
+
+```
